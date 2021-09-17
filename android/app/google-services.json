@@ -1,0 +1,31 @@
+{
+    "project_info": {
+        "project_number": "378423584853",
+        "project_id": "cansei-4504f",
+        "storage_bucket": "cansei-4504f.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:378423584853:android:8f113f9b1ad1dc912f8cdc",
+            "android_client_info": {
+                "package_name": "com.example.firestore_testando"
+            }
+        },
+        "oauth_client": [{
+            "client_id": "378423584853-o612h7jr163dfajg3i5h3hldjpfvt9ae.apps.googleusercontent.com",
+            "client_type": 3
+        }],
+        "api_key": [{
+            "current_key": "AIzaSyDF2mnHqUDiKm8milqX-czxtAFfSZEqfm4"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "378423584853-o612h7jr163dfajg3i5h3hldjpfvt9ae.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
